@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BotonesApp</string>
+    <string name="button_send1">Tocar</string>
+    <string name="button_send2">Tocar</string>
+    <string name="button_send3">Tocar</string>
+    <string name="button_send4">Tocar</string>
+</resources>
